@@ -1,5 +1,5 @@
-# Kubernetes Monitoring and Logging
-Pluggable Terraform module to install basic monitoring and logging on Kubernetes clusters
+# Kubernetes Monitoring
+Pluggable Terraform module to install basic monitoring on Kubernetes clusters
 
 ## Usage
 Passing a provider alias when DNS zone is in a different account
